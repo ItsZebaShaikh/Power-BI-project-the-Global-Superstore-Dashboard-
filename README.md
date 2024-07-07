@@ -11,3 +11,5 @@
 ### Sales by Segment: Consumer tops at $6.51M (51%)
 ### Top Products: Most Profitable vs. Loss-Making 📈📉
 ### Top Customers: Who are our biggest buyers? 🏅
+
+Here is the Power BI Dashboard link: https://drive.google.com/file/d/1mGvZY3IvBt-ADq8sLkhVJrJEcfXGzv1K/view?usp=sharing
